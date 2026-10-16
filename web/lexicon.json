@@ -1,0 +1,2908 @@
+{
+  "subjects": [
+    {
+      "text": "I",
+      "person": 1,
+      "number": "sg"
+    },
+    {
+      "text": "you",
+      "person": 2,
+      "number": "sg"
+    },
+    {
+      "text": "he",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "she",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "it",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "we",
+      "person": 1,
+      "number": "pl"
+    },
+    {
+      "text": "they",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "Tom",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Anna",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Maria",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "John",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the boy",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the girl",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "my friend",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the cat",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "students",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "people",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "children",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "my parents",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "the boys",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "the girls",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "Alex",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Emma",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Oliver",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Sofia",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Leo",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Nina",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "David",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Laura",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Peter",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Kate",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Sam",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Lisa",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Ben",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Eva",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Mark",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Sara",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Paul",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Amy",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Nick",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "Rosa",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the man",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the woman",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "my sister",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "my brother",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the dog",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "the teacher",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "my mother",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "my father",
+      "person": 3,
+      "number": "sg"
+    },
+    {
+      "text": "friends",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "teachers",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "workers",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "players",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "doctors",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "neighbours",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "tourists",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "the men",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "the women",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "classmates",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "guests",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "drivers",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "singers",
+      "person": 3,
+      "number": "pl"
+    },
+    {
+      "text": "families",
+      "person": 3,
+      "number": "pl"
+    }
+  ],
+  "adverbs": [
+    {
+      "text": "every day",
+      "tense": "present_simple"
+    },
+    {
+      "text": "always",
+      "tense": "present_simple"
+    },
+    {
+      "text": "usually",
+      "tense": "present_simple"
+    },
+    {
+      "text": "often",
+      "tense": "present_simple"
+    },
+    {
+      "text": "sometimes",
+      "tense": "present_simple"
+    },
+    {
+      "text": "never",
+      "tense": "present_simple"
+    },
+    {
+      "text": "rarely",
+      "tense": "present_simple"
+    },
+    {
+      "text": "every morning",
+      "tense": "present_simple"
+    },
+    {
+      "text": "every week",
+      "tense": "present_simple"
+    },
+    {
+      "text": "on Sundays",
+      "tense": "present_simple"
+    },
+    {
+      "text": "at night",
+      "tense": "present_simple"
+    },
+    {
+      "text": "in the evening",
+      "tense": "present_simple"
+    },
+    {
+      "text": "yesterday",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last night",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last week",
+      "tense": "past_simple"
+    },
+    {
+      "text": "on Monday",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last year",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last month",
+      "tense": "past_simple"
+    },
+    {
+      "text": "two days ago",
+      "tense": "past_simple"
+    },
+    {
+      "text": "yesterday morning",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last Sunday",
+      "tense": "past_simple"
+    },
+    {
+      "text": "a week ago",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last summer",
+      "tense": "past_simple"
+    },
+    {
+      "text": "on Friday",
+      "tense": "past_simple"
+    },
+    {
+      "text": "every evening",
+      "tense": "present_simple"
+    },
+    {
+      "text": "on Mondays",
+      "tense": "present_simple"
+    },
+    {
+      "text": "once a week",
+      "tense": "present_simple"
+    },
+    {
+      "text": "in the morning",
+      "tense": "present_simple"
+    },
+    {
+      "text": "all the time",
+      "tense": "present_simple"
+    },
+    {
+      "text": "hardly ever",
+      "tense": "present_simple"
+    },
+    {
+      "text": "last Friday",
+      "tense": "past_simple"
+    },
+    {
+      "text": "an hour ago",
+      "tense": "past_simple"
+    },
+    {
+      "text": "yesterday evening",
+      "tense": "past_simple"
+    },
+    {
+      "text": "last winter",
+      "tense": "past_simple"
+    },
+    {
+      "text": "in 2019",
+      "tense": "past_simple"
+    },
+    {
+      "text": "three days ago",
+      "tense": "past_simple"
+    },
+    {
+      "text": "tomorrow",
+      "tense": "future_simple"
+    },
+    {
+      "text": "next week",
+      "tense": "future_simple"
+    },
+    {
+      "text": "next year",
+      "tense": "future_simple"
+    },
+    {
+      "text": "soon",
+      "tense": "future_simple"
+    },
+    {
+      "text": "later",
+      "tense": "future_simple"
+    },
+    {
+      "text": "tonight",
+      "tense": "future_simple"
+    },
+    {
+      "text": "next Monday",
+      "tense": "future_simple"
+    },
+    {
+      "text": "in an hour",
+      "tense": "future_simple"
+    },
+    {
+      "text": "next month",
+      "tense": "future_simple"
+    },
+    {
+      "text": "one day",
+      "tense": "future_simple"
+    },
+    {
+      "text": "next summer",
+      "tense": "future_simple"
+    },
+    {
+      "text": "tomorrow morning",
+      "tense": "future_simple"
+    },
+    {
+      "text": "already",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "just",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "yet",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "ever",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "recently",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "lately",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "so far",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "this week",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "this year",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "before",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "many times",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "since Monday",
+      "tense": "present_perfect"
+    },
+    {
+      "text": "now",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "right now",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "at the moment",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "today",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "these days",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "still",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "currently",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "this morning",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "at present",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "just now",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "for now",
+      "tense": "present_continuous"
+    },
+    {
+      "text": "this evening",
+      "tense": "present_continuous"
+    }
+  ],
+  "objects": [
+    {
+      "text": "music"
+    },
+    {
+      "text": "English"
+    },
+    {
+      "text": "football"
+    },
+    {
+      "text": "tea"
+    },
+    {
+      "text": "books"
+    },
+    {
+      "text": "coffee"
+    },
+    {
+      "text": "dinner"
+    },
+    {
+      "text": "letters"
+    },
+    {
+      "text": "Spanish"
+    },
+    {
+      "text": "tennis"
+    },
+    {
+      "text": "water"
+    },
+    {
+      "text": "films"
+    },
+    {
+      "text": "homework"
+    },
+    {
+      "text": "breakfast"
+    },
+    {
+      "text": "pizza"
+    },
+    {
+      "text": "bread"
+    },
+    {
+      "text": "milk"
+    },
+    {
+      "text": "juice"
+    },
+    {
+      "text": "soup"
+    },
+    {
+      "text": "rice"
+    },
+    {
+      "text": "eggs"
+    },
+    {
+      "text": "apples"
+    },
+    {
+      "text": "money"
+    },
+    {
+      "text": "photos"
+    },
+    {
+      "text": "songs"
+    },
+    {
+      "text": "history"
+    },
+    {
+      "text": "art"
+    },
+    {
+      "text": "chess"
+    },
+    {
+      "text": "basketball"
+    },
+    {
+      "text": "stories"
+    },
+    {
+      "text": "games"
+    },
+    {
+      "text": "questions"
+    },
+    {
+      "text": "emails"
+    },
+    {
+      "text": "messages"
+    },
+    {
+      "text": "piano"
+    },
+    {
+      "text": "guitar"
+    },
+    {
+      "text": "movies"
+    },
+    {
+      "text": "clothes"
+    },
+    {
+      "text": "shoes"
+    },
+    {
+      "text": "cars"
+    },
+    {
+      "text": "buses"
+    },
+    {
+      "text": "flowers"
+    },
+    {
+      "text": "pictures"
+    },
+    {
+      "text": "news"
+    },
+    {
+      "text": "maths"
+    }
+  ],
+  "verbs": [
+    {
+      "lemma": "go",
+      "base": "go",
+      "s": "goes",
+      "past": "went",
+      "ing": "going",
+      "pp": "gone"
+    },
+    {
+      "lemma": "like",
+      "base": "like",
+      "s": "likes",
+      "past": "liked",
+      "ing": "liking",
+      "pp": "liked"
+    },
+    {
+      "lemma": "play",
+      "base": "play",
+      "s": "plays",
+      "past": "played",
+      "ing": "playing",
+      "pp": "played"
+    },
+    {
+      "lemma": "watch",
+      "base": "watch",
+      "s": "watches",
+      "past": "watched",
+      "ing": "watching",
+      "pp": "watched"
+    },
+    {
+      "lemma": "study",
+      "base": "study",
+      "s": "studies",
+      "past": "studied",
+      "ing": "studying",
+      "pp": "studied"
+    },
+    {
+      "lemma": "have",
+      "base": "have",
+      "s": "has",
+      "past": "had",
+      "ing": "having",
+      "pp": "had"
+    },
+    {
+      "lemma": "do",
+      "base": "do",
+      "s": "does",
+      "past": "did",
+      "ing": "doing",
+      "pp": "done"
+    },
+    {
+      "lemma": "see",
+      "base": "see",
+      "s": "sees",
+      "past": "saw",
+      "ing": "seeing",
+      "pp": "seen"
+    },
+    {
+      "lemma": "eat",
+      "base": "eat",
+      "s": "eats",
+      "past": "ate",
+      "ing": "eating",
+      "pp": "eaten"
+    },
+    {
+      "lemma": "write",
+      "base": "write",
+      "s": "writes",
+      "past": "wrote",
+      "ing": "writing",
+      "pp": "written"
+    },
+    {
+      "lemma": "read",
+      "base": "read",
+      "s": "reads",
+      "past": "read",
+      "ing": "reading",
+      "pp": "read"
+    },
+    {
+      "lemma": "work",
+      "base": "work",
+      "s": "works",
+      "past": "worked",
+      "ing": "working",
+      "pp": "worked"
+    },
+    {
+      "lemma": "live",
+      "base": "live",
+      "s": "lives",
+      "past": "lived",
+      "ing": "living",
+      "pp": "lived"
+    },
+    {
+      "lemma": "want",
+      "base": "want",
+      "s": "wants",
+      "past": "wanted",
+      "ing": "wanting",
+      "pp": "wanted"
+    },
+    {
+      "lemma": "know",
+      "base": "know",
+      "s": "knows",
+      "past": "knew",
+      "ing": "knowing",
+      "pp": "known"
+    },
+    {
+      "lemma": "come",
+      "base": "come",
+      "s": "comes",
+      "past": "came",
+      "ing": "coming",
+      "pp": "come"
+    },
+    {
+      "lemma": "take",
+      "base": "take",
+      "s": "takes",
+      "past": "took",
+      "ing": "taking",
+      "pp": "taken"
+    },
+    {
+      "lemma": "make",
+      "base": "make",
+      "s": "makes",
+      "past": "made",
+      "ing": "making",
+      "pp": "made"
+    },
+    {
+      "lemma": "get",
+      "base": "get",
+      "s": "gets",
+      "past": "got",
+      "ing": "getting",
+      "pp": "got"
+    },
+    {
+      "lemma": "say",
+      "base": "say",
+      "s": "says",
+      "past": "said",
+      "ing": "saying",
+      "pp": "said"
+    },
+    {
+      "lemma": "think",
+      "base": "think",
+      "s": "thinks",
+      "past": "thought",
+      "ing": "thinking",
+      "pp": "thought"
+    },
+    {
+      "lemma": "look",
+      "base": "look",
+      "s": "looks",
+      "past": "looked",
+      "ing": "looking",
+      "pp": "looked"
+    },
+    {
+      "lemma": "use",
+      "base": "use",
+      "s": "uses",
+      "past": "used",
+      "ing": "using",
+      "pp": "used"
+    },
+    {
+      "lemma": "find",
+      "base": "find",
+      "s": "finds",
+      "past": "found",
+      "ing": "finding",
+      "pp": "found"
+    },
+    {
+      "lemma": "give",
+      "base": "give",
+      "s": "gives",
+      "past": "gave",
+      "ing": "giving",
+      "pp": "given"
+    },
+    {
+      "lemma": "tell",
+      "base": "tell",
+      "s": "tells",
+      "past": "told",
+      "ing": "telling",
+      "pp": "told"
+    },
+    {
+      "lemma": "feel",
+      "base": "feel",
+      "s": "feels",
+      "past": "felt",
+      "ing": "feeling",
+      "pp": "felt"
+    },
+    {
+      "lemma": "leave",
+      "base": "leave",
+      "s": "leaves",
+      "past": "left",
+      "ing": "leaving",
+      "pp": "left"
+    },
+    {
+      "lemma": "call",
+      "base": "call",
+      "s": "calls",
+      "past": "called",
+      "ing": "calling",
+      "pp": "called"
+    },
+    {
+      "lemma": "try",
+      "base": "try",
+      "s": "tries",
+      "past": "tried",
+      "ing": "trying",
+      "pp": "tried"
+    },
+    {
+      "lemma": "walk",
+      "base": "walk",
+      "s": "walks",
+      "past": "walked",
+      "ing": "walking",
+      "pp": "walked"
+    },
+    {
+      "lemma": "talk",
+      "base": "talk",
+      "s": "talks",
+      "past": "talked",
+      "ing": "talking",
+      "pp": "talked"
+    },
+    {
+      "lemma": "listen",
+      "base": "listen",
+      "s": "listens",
+      "past": "listened",
+      "ing": "listening",
+      "pp": "listened"
+    },
+    {
+      "lemma": "help",
+      "base": "help",
+      "s": "helps",
+      "past": "helped",
+      "ing": "helping",
+      "pp": "helped"
+    },
+    {
+      "lemma": "start",
+      "base": "start",
+      "s": "starts",
+      "past": "started",
+      "ing": "starting",
+      "pp": "started"
+    },
+    {
+      "lemma": "stop",
+      "base": "stop",
+      "s": "stops",
+      "past": "stopped",
+      "ing": "stopping",
+      "pp": "stopped"
+    },
+    {
+      "lemma": "open",
+      "base": "open",
+      "s": "opens",
+      "past": "opened",
+      "ing": "opening",
+      "pp": "opened"
+    },
+    {
+      "lemma": "close",
+      "base": "close",
+      "s": "closes",
+      "past": "closed",
+      "ing": "closing",
+      "pp": "closed"
+    },
+    {
+      "lemma": "ask",
+      "base": "ask",
+      "s": "asks",
+      "past": "asked",
+      "ing": "asking",
+      "pp": "asked"
+    },
+    {
+      "lemma": "answer",
+      "base": "answer",
+      "s": "answers",
+      "past": "answered",
+      "ing": "answering",
+      "pp": "answered"
+    },
+    {
+      "lemma": "love",
+      "base": "love",
+      "s": "loves",
+      "past": "loved",
+      "ing": "loving",
+      "pp": "loved"
+    },
+    {
+      "lemma": "hate",
+      "base": "hate",
+      "s": "hates",
+      "past": "hated",
+      "ing": "hating",
+      "pp": "hated"
+    },
+    {
+      "lemma": "need",
+      "base": "need",
+      "s": "needs",
+      "past": "needed",
+      "ing": "needing",
+      "pp": "needed"
+    },
+    {
+      "lemma": "learn",
+      "base": "learn",
+      "s": "learns",
+      "past": "learned",
+      "ing": "learning",
+      "pp": "learned"
+    },
+    {
+      "lemma": "remember",
+      "base": "remember",
+      "s": "remembers",
+      "past": "remembered",
+      "ing": "remembering",
+      "pp": "remembered"
+    },
+    {
+      "lemma": "cook",
+      "base": "cook",
+      "s": "cooks",
+      "past": "cooked",
+      "ing": "cooking",
+      "pp": "cooked"
+    },
+    {
+      "lemma": "clean",
+      "base": "clean",
+      "s": "cleans",
+      "past": "cleaned",
+      "ing": "cleaning",
+      "pp": "cleaned"
+    },
+    {
+      "lemma": "wash",
+      "base": "wash",
+      "s": "washes",
+      "past": "washed",
+      "ing": "washing",
+      "pp": "washed"
+    },
+    {
+      "lemma": "visit",
+      "base": "visit",
+      "s": "visits",
+      "past": "visited",
+      "ing": "visiting",
+      "pp": "visited"
+    },
+    {
+      "lemma": "travel",
+      "base": "travel",
+      "s": "travels",
+      "past": "traveled",
+      "ing": "traveling",
+      "pp": "traveled"
+    },
+    {
+      "lemma": "arrive",
+      "base": "arrive",
+      "s": "arrives",
+      "past": "arrived",
+      "ing": "arriving",
+      "pp": "arrived"
+    },
+    {
+      "lemma": "stay",
+      "base": "stay",
+      "s": "stays",
+      "past": "stayed",
+      "ing": "staying",
+      "pp": "stayed"
+    },
+    {
+      "lemma": "wait",
+      "base": "wait",
+      "s": "waits",
+      "past": "waited",
+      "ing": "waiting",
+      "pp": "waited"
+    },
+    {
+      "lemma": "hope",
+      "base": "hope",
+      "s": "hopes",
+      "past": "hoped",
+      "ing": "hoping",
+      "pp": "hoped"
+    },
+    {
+      "lemma": "wish",
+      "base": "wish",
+      "s": "wishes",
+      "past": "wished",
+      "ing": "wishing",
+      "pp": "wished"
+    },
+    {
+      "lemma": "believe",
+      "base": "believe",
+      "s": "believes",
+      "past": "believed",
+      "ing": "believing",
+      "pp": "believed"
+    },
+    {
+      "lemma": "decide",
+      "base": "decide",
+      "s": "decides",
+      "past": "decided",
+      "ing": "deciding",
+      "pp": "decided"
+    },
+    {
+      "lemma": "carry",
+      "base": "carry",
+      "s": "carries",
+      "past": "carried",
+      "ing": "carrying",
+      "pp": "carried"
+    },
+    {
+      "lemma": "finish",
+      "base": "finish",
+      "s": "finishes",
+      "past": "finished",
+      "ing": "finishing",
+      "pp": "finished"
+    },
+    {
+      "lemma": "change",
+      "base": "change",
+      "s": "changes",
+      "past": "changed",
+      "ing": "changing",
+      "pp": "changed"
+    },
+    {
+      "lemma": "move",
+      "base": "move",
+      "s": "moves",
+      "past": "moved",
+      "ing": "moving",
+      "pp": "moved"
+    },
+    {
+      "lemma": "turn",
+      "base": "turn",
+      "s": "turns",
+      "past": "turned",
+      "ing": "turning",
+      "pp": "turned"
+    },
+    {
+      "lemma": "follow",
+      "base": "follow",
+      "s": "follows",
+      "past": "followed",
+      "ing": "following",
+      "pp": "followed"
+    },
+    {
+      "lemma": "enjoy",
+      "base": "enjoy",
+      "s": "enjoys",
+      "past": "enjoyed",
+      "ing": "enjoying",
+      "pp": "enjoyed"
+    },
+    {
+      "lemma": "miss",
+      "base": "miss",
+      "s": "misses",
+      "past": "missed",
+      "ing": "missing",
+      "pp": "missed"
+    },
+    {
+      "lemma": "practice",
+      "base": "practice",
+      "s": "practices",
+      "past": "practiced",
+      "ing": "practicing",
+      "pp": "practiced"
+    },
+    {
+      "lemma": "dance",
+      "base": "dance",
+      "s": "dances",
+      "past": "danced",
+      "ing": "dancing",
+      "pp": "danced"
+    },
+    {
+      "lemma": "smile",
+      "base": "smile",
+      "s": "smiles",
+      "past": "smiled",
+      "ing": "smiling",
+      "pp": "smiled"
+    },
+    {
+      "lemma": "teach",
+      "base": "teach",
+      "s": "teaches",
+      "past": "taught",
+      "ing": "teaching",
+      "pp": "taught"
+    },
+    {
+      "lemma": "buy",
+      "base": "buy",
+      "s": "buys",
+      "past": "bought",
+      "ing": "buying",
+      "pp": "bought"
+    },
+    {
+      "lemma": "sell",
+      "base": "sell",
+      "s": "sells",
+      "past": "sold",
+      "ing": "selling",
+      "pp": "sold"
+    },
+    {
+      "lemma": "speak",
+      "base": "speak",
+      "s": "speaks",
+      "past": "spoke",
+      "ing": "speaking",
+      "pp": "spoken"
+    },
+    {
+      "lemma": "meet",
+      "base": "meet",
+      "s": "meets",
+      "past": "met",
+      "ing": "meeting",
+      "pp": "met"
+    },
+    {
+      "lemma": "sleep",
+      "base": "sleep",
+      "s": "sleeps",
+      "past": "slept",
+      "ing": "sleeping",
+      "pp": "slept"
+    },
+    {
+      "lemma": "run",
+      "base": "run",
+      "s": "runs",
+      "past": "ran",
+      "ing": "running",
+      "pp": "run"
+    },
+    {
+      "lemma": "sit",
+      "base": "sit",
+      "s": "sits",
+      "past": "sat",
+      "ing": "sitting",
+      "pp": "sat"
+    },
+    {
+      "lemma": "stand",
+      "base": "stand",
+      "s": "stands",
+      "past": "stood",
+      "ing": "standing",
+      "pp": "stood"
+    },
+    {
+      "lemma": "bring",
+      "base": "bring",
+      "s": "brings",
+      "past": "brought",
+      "ing": "bringing",
+      "pp": "brought"
+    },
+    {
+      "lemma": "build",
+      "base": "build",
+      "s": "builds",
+      "past": "built",
+      "ing": "building",
+      "pp": "built"
+    },
+    {
+      "lemma": "send",
+      "base": "send",
+      "s": "sends",
+      "past": "sent",
+      "ing": "sending",
+      "pp": "sent"
+    },
+    {
+      "lemma": "spend",
+      "base": "spend",
+      "s": "spends",
+      "past": "spent",
+      "ing": "spending",
+      "pp": "spent"
+    },
+    {
+      "lemma": "drink",
+      "base": "drink",
+      "s": "drinks",
+      "past": "drank",
+      "ing": "drinking",
+      "pp": "drunk"
+    },
+    {
+      "lemma": "drive",
+      "base": "drive",
+      "s": "drives",
+      "past": "drove",
+      "ing": "driving",
+      "pp": "driven"
+    },
+    {
+      "lemma": "win",
+      "base": "win",
+      "s": "wins",
+      "past": "won",
+      "ing": "winning",
+      "pp": "won"
+    },
+    {
+      "lemma": "lose",
+      "base": "lose",
+      "s": "loses",
+      "past": "lost",
+      "ing": "losing",
+      "pp": "lost"
+    },
+    {
+      "lemma": "pay",
+      "base": "pay",
+      "s": "pays",
+      "past": "paid",
+      "ing": "paying",
+      "pp": "paid"
+    },
+    {
+      "lemma": "keep",
+      "base": "keep",
+      "s": "keeps",
+      "past": "kept",
+      "ing": "keeping",
+      "pp": "kept"
+    },
+    {
+      "lemma": "hear",
+      "base": "hear",
+      "s": "hears",
+      "past": "heard",
+      "ing": "hearing",
+      "pp": "heard"
+    },
+    {
+      "lemma": "understand",
+      "base": "understand",
+      "s": "understands",
+      "past": "understood",
+      "ing": "understanding",
+      "pp": "understood"
+    },
+    {
+      "lemma": "forget",
+      "base": "forget",
+      "s": "forgets",
+      "past": "forgot",
+      "ing": "forgetting",
+      "pp": "forgotten"
+    },
+    {
+      "lemma": "accept",
+      "base": "accept",
+      "s": "accepts",
+      "past": "accepted",
+      "ing": "accepting",
+      "pp": "accepted"
+    },
+    {
+      "lemma": "add",
+      "base": "add",
+      "s": "adds",
+      "past": "added",
+      "ing": "adding",
+      "pp": "added"
+    },
+    {
+      "lemma": "agree",
+      "base": "agree",
+      "s": "agrees",
+      "past": "agreed",
+      "ing": "agreeing",
+      "pp": "agreed"
+    },
+    {
+      "lemma": "allow",
+      "base": "allow",
+      "s": "allows",
+      "past": "allowed",
+      "ing": "allowing",
+      "pp": "allowed"
+    },
+    {
+      "lemma": "appear",
+      "base": "appear",
+      "s": "appears",
+      "past": "appeared",
+      "ing": "appearing",
+      "pp": "appeared"
+    },
+    {
+      "lemma": "apply",
+      "base": "apply",
+      "s": "applies",
+      "past": "applied",
+      "ing": "applying",
+      "pp": "applied"
+    },
+    {
+      "lemma": "argue",
+      "base": "argue",
+      "s": "argues",
+      "past": "argued",
+      "ing": "arguing",
+      "pp": "argued"
+    },
+    {
+      "lemma": "arrange",
+      "base": "arrange",
+      "s": "arranges",
+      "past": "arranged",
+      "ing": "arranging",
+      "pp": "arranged"
+    },
+    {
+      "lemma": "attack",
+      "base": "attack",
+      "s": "attacks",
+      "past": "attacked",
+      "ing": "attacking",
+      "pp": "attacked"
+    },
+    {
+      "lemma": "attend",
+      "base": "attend",
+      "s": "attends",
+      "past": "attended",
+      "ing": "attending",
+      "pp": "attended"
+    },
+    {
+      "lemma": "avoid",
+      "base": "avoid",
+      "s": "avoids",
+      "past": "avoided",
+      "ing": "avoiding",
+      "pp": "avoided"
+    },
+    {
+      "lemma": "bake",
+      "base": "bake",
+      "s": "bakes",
+      "past": "baked",
+      "ing": "baking",
+      "pp": "baked"
+    },
+    {
+      "lemma": "belong",
+      "base": "belong",
+      "s": "belongs",
+      "past": "belonged",
+      "ing": "belonging",
+      "pp": "belonged"
+    },
+    {
+      "lemma": "borrow",
+      "base": "borrow",
+      "s": "borrows",
+      "past": "borrowed",
+      "ing": "borrowing",
+      "pp": "borrowed"
+    },
+    {
+      "lemma": "brush",
+      "base": "brush",
+      "s": "brushes",
+      "past": "brushed",
+      "ing": "brushing",
+      "pp": "brushed"
+    },
+    {
+      "lemma": "camp",
+      "base": "camp",
+      "s": "camps",
+      "past": "camped",
+      "ing": "camping",
+      "pp": "camped"
+    },
+    {
+      "lemma": "care",
+      "base": "care",
+      "s": "cares",
+      "past": "cared",
+      "ing": "caring",
+      "pp": "cared"
+    },
+    {
+      "lemma": "cause",
+      "base": "cause",
+      "s": "causes",
+      "past": "caused",
+      "ing": "causing",
+      "pp": "caused"
+    },
+    {
+      "lemma": "check",
+      "base": "check",
+      "s": "checks",
+      "past": "checked",
+      "ing": "checking",
+      "pp": "checked"
+    },
+    {
+      "lemma": "claim",
+      "base": "claim",
+      "s": "claims",
+      "past": "claimed",
+      "ing": "claiming",
+      "pp": "claimed"
+    },
+    {
+      "lemma": "collect",
+      "base": "collect",
+      "s": "collects",
+      "past": "collected",
+      "ing": "collecting",
+      "pp": "collected"
+    },
+    {
+      "lemma": "compare",
+      "base": "compare",
+      "s": "compares",
+      "past": "compared",
+      "ing": "comparing",
+      "pp": "compared"
+    },
+    {
+      "lemma": "complain",
+      "base": "complain",
+      "s": "complains",
+      "past": "complained",
+      "ing": "complaining",
+      "pp": "complained"
+    },
+    {
+      "lemma": "complete",
+      "base": "complete",
+      "s": "completes",
+      "past": "completed",
+      "ing": "completing",
+      "pp": "completed"
+    },
+    {
+      "lemma": "connect",
+      "base": "connect",
+      "s": "connects",
+      "past": "connected",
+      "ing": "connecting",
+      "pp": "connected"
+    },
+    {
+      "lemma": "consider",
+      "base": "consider",
+      "s": "considers",
+      "past": "considered",
+      "ing": "considering",
+      "pp": "considered"
+    },
+    {
+      "lemma": "continue",
+      "base": "continue",
+      "s": "continues",
+      "past": "continued",
+      "ing": "continuing",
+      "pp": "continued"
+    },
+    {
+      "lemma": "copy",
+      "base": "copy",
+      "s": "copies",
+      "past": "copied",
+      "ing": "copying",
+      "pp": "copied"
+    },
+    {
+      "lemma": "count",
+      "base": "count",
+      "s": "counts",
+      "past": "counted",
+      "ing": "counting",
+      "pp": "counted"
+    },
+    {
+      "lemma": "cover",
+      "base": "cover",
+      "s": "covers",
+      "past": "covered",
+      "ing": "covering",
+      "pp": "covered"
+    },
+    {
+      "lemma": "crash",
+      "base": "crash",
+      "s": "crashes",
+      "past": "crashed",
+      "ing": "crashing",
+      "pp": "crashed"
+    },
+    {
+      "lemma": "create",
+      "base": "create",
+      "s": "creates",
+      "past": "created",
+      "ing": "creating",
+      "pp": "created"
+    },
+    {
+      "lemma": "cross",
+      "base": "cross",
+      "s": "crosses",
+      "past": "crossed",
+      "ing": "crossing",
+      "pp": "crossed"
+    },
+    {
+      "lemma": "cry",
+      "base": "cry",
+      "s": "cries",
+      "past": "cried",
+      "ing": "crying",
+      "pp": "cried"
+    },
+    {
+      "lemma": "damage",
+      "base": "damage",
+      "s": "damages",
+      "past": "damaged",
+      "ing": "damaging",
+      "pp": "damaged"
+    },
+    {
+      "lemma": "deliver",
+      "base": "deliver",
+      "s": "delivers",
+      "past": "delivered",
+      "ing": "delivering",
+      "pp": "delivered"
+    },
+    {
+      "lemma": "depend",
+      "base": "depend",
+      "s": "depends",
+      "past": "depended",
+      "ing": "depending",
+      "pp": "depended"
+    },
+    {
+      "lemma": "describe",
+      "base": "describe",
+      "s": "describes",
+      "past": "described",
+      "ing": "describing",
+      "pp": "described"
+    },
+    {
+      "lemma": "destroy",
+      "base": "destroy",
+      "s": "destroys",
+      "past": "destroyed",
+      "ing": "destroying",
+      "pp": "destroyed"
+    },
+    {
+      "lemma": "develop",
+      "base": "develop",
+      "s": "develops",
+      "past": "developed",
+      "ing": "developing",
+      "pp": "developed"
+    },
+    {
+      "lemma": "discover",
+      "base": "discover",
+      "s": "discovers",
+      "past": "discovered",
+      "ing": "discovering",
+      "pp": "discovered"
+    },
+    {
+      "lemma": "discuss",
+      "base": "discuss",
+      "s": "discusses",
+      "past": "discussed",
+      "ing": "discussing",
+      "pp": "discussed"
+    },
+    {
+      "lemma": "divide",
+      "base": "divide",
+      "s": "divides",
+      "past": "divided",
+      "ing": "dividing",
+      "pp": "divided"
+    },
+    {
+      "lemma": "doubt",
+      "base": "doubt",
+      "s": "doubts",
+      "past": "doubted",
+      "ing": "doubting",
+      "pp": "doubted"
+    },
+    {
+      "lemma": "dress",
+      "base": "dress",
+      "s": "dresses",
+      "past": "dressed",
+      "ing": "dressing",
+      "pp": "dressed"
+    },
+    {
+      "lemma": "dry",
+      "base": "dry",
+      "s": "dries",
+      "past": "dried",
+      "ing": "drying",
+      "pp": "dried"
+    },
+    {
+      "lemma": "earn",
+      "base": "earn",
+      "s": "earns",
+      "past": "earned",
+      "ing": "earning",
+      "pp": "earned"
+    },
+    {
+      "lemma": "employ",
+      "base": "employ",
+      "s": "employs",
+      "past": "employed",
+      "ing": "employing",
+      "pp": "employed"
+    },
+    {
+      "lemma": "empty",
+      "base": "empty",
+      "s": "empties",
+      "past": "emptied",
+      "ing": "emptying",
+      "pp": "emptied"
+    },
+    {
+      "lemma": "end",
+      "base": "end",
+      "s": "ends",
+      "past": "ended",
+      "ing": "ending",
+      "pp": "ended"
+    },
+    {
+      "lemma": "enter",
+      "base": "enter",
+      "s": "enters",
+      "past": "entered",
+      "ing": "entering",
+      "pp": "entered"
+    },
+    {
+      "lemma": "examine",
+      "base": "examine",
+      "s": "examines",
+      "past": "examined",
+      "ing": "examining",
+      "pp": "examined"
+    },
+    {
+      "lemma": "exist",
+      "base": "exist",
+      "s": "exists",
+      "past": "existed",
+      "ing": "existing",
+      "pp": "existed"
+    },
+    {
+      "lemma": "expect",
+      "base": "expect",
+      "s": "expects",
+      "past": "expected",
+      "ing": "expecting",
+      "pp": "expected"
+    },
+    {
+      "lemma": "explain",
+      "base": "explain",
+      "s": "explains",
+      "past": "explained",
+      "ing": "explaining",
+      "pp": "explained"
+    },
+    {
+      "lemma": "express",
+      "base": "express",
+      "s": "expresses",
+      "past": "expressed",
+      "ing": "expressing",
+      "pp": "expressed"
+    },
+    {
+      "lemma": "fail",
+      "base": "fail",
+      "s": "fails",
+      "past": "failed",
+      "ing": "failing",
+      "pp": "failed"
+    },
+    {
+      "lemma": "fill",
+      "base": "fill",
+      "s": "fills",
+      "past": "filled",
+      "ing": "filling",
+      "pp": "filled"
+    },
+    {
+      "lemma": "fix",
+      "base": "fix",
+      "s": "fixes",
+      "past": "fixed",
+      "ing": "fixing",
+      "pp": "fixed"
+    },
+    {
+      "lemma": "flow",
+      "base": "flow",
+      "s": "flows",
+      "past": "flowed",
+      "ing": "flowing",
+      "pp": "flowed"
+    },
+    {
+      "lemma": "fold",
+      "base": "fold",
+      "s": "folds",
+      "past": "folded",
+      "ing": "folding",
+      "pp": "folded"
+    },
+    {
+      "lemma": "fry",
+      "base": "fry",
+      "s": "fries",
+      "past": "fried",
+      "ing": "frying",
+      "pp": "fried"
+    },
+    {
+      "lemma": "gather",
+      "base": "gather",
+      "s": "gathers",
+      "past": "gathered",
+      "ing": "gathering",
+      "pp": "gathered"
+    },
+    {
+      "lemma": "greet",
+      "base": "greet",
+      "s": "greets",
+      "past": "greeted",
+      "ing": "greeting",
+      "pp": "greeted"
+    },
+    {
+      "lemma": "guess",
+      "base": "guess",
+      "s": "guesses",
+      "past": "guessed",
+      "ing": "guessing",
+      "pp": "guessed"
+    },
+    {
+      "lemma": "happen",
+      "base": "happen",
+      "s": "happens",
+      "past": "happened",
+      "ing": "happening",
+      "pp": "happened"
+    },
+    {
+      "lemma": "hurry",
+      "base": "hurry",
+      "s": "hurries",
+      "past": "hurried",
+      "ing": "hurrying",
+      "pp": "hurried"
+    },
+    {
+      "lemma": "identify",
+      "base": "identify",
+      "s": "identifies",
+      "past": "identified",
+      "ing": "identifying",
+      "pp": "identified"
+    },
+    {
+      "lemma": "imagine",
+      "base": "imagine",
+      "s": "imagines",
+      "past": "imagined",
+      "ing": "imagining",
+      "pp": "imagined"
+    },
+    {
+      "lemma": "improve",
+      "base": "improve",
+      "s": "improves",
+      "past": "improved",
+      "ing": "improving",
+      "pp": "improved"
+    },
+    {
+      "lemma": "include",
+      "base": "include",
+      "s": "includes",
+      "past": "included",
+      "ing": "including",
+      "pp": "included"
+    },
+    {
+      "lemma": "increase",
+      "base": "increase",
+      "s": "increases",
+      "past": "increased",
+      "ing": "increasing",
+      "pp": "increased"
+    },
+    {
+      "lemma": "inform",
+      "base": "inform",
+      "s": "informs",
+      "past": "informed",
+      "ing": "informing",
+      "pp": "informed"
+    },
+    {
+      "lemma": "introduce",
+      "base": "introduce",
+      "s": "introduces",
+      "past": "introduced",
+      "ing": "introducing",
+      "pp": "introduced"
+    },
+    {
+      "lemma": "invite",
+      "base": "invite",
+      "s": "invites",
+      "past": "invited",
+      "ing": "inviting",
+      "pp": "invited"
+    },
+    {
+      "lemma": "join",
+      "base": "join",
+      "s": "joins",
+      "past": "joined",
+      "ing": "joining",
+      "pp": "joined"
+    },
+    {
+      "lemma": "jump",
+      "base": "jump",
+      "s": "jumps",
+      "past": "jumped",
+      "ing": "jumping",
+      "pp": "jumped"
+    },
+    {
+      "lemma": "kick",
+      "base": "kick",
+      "s": "kicks",
+      "past": "kicked",
+      "ing": "kicking",
+      "pp": "kicked"
+    },
+    {
+      "lemma": "kiss",
+      "base": "kiss",
+      "s": "kisses",
+      "past": "kissed",
+      "ing": "kissing",
+      "pp": "kissed"
+    },
+    {
+      "lemma": "knock",
+      "base": "knock",
+      "s": "knocks",
+      "past": "knocked",
+      "ing": "knocking",
+      "pp": "knocked"
+    },
+    {
+      "lemma": "land",
+      "base": "land",
+      "s": "lands",
+      "past": "landed",
+      "ing": "landing",
+      "pp": "landed"
+    },
+    {
+      "lemma": "last",
+      "base": "last",
+      "s": "lasts",
+      "past": "lasted",
+      "ing": "lasting",
+      "pp": "lasted"
+    },
+    {
+      "lemma": "laugh",
+      "base": "laugh",
+      "s": "laughs",
+      "past": "laughed",
+      "ing": "laughing",
+      "pp": "laughed"
+    },
+    {
+      "lemma": "lift",
+      "base": "lift",
+      "s": "lifts",
+      "past": "lifted",
+      "ing": "lifting",
+      "pp": "lifted"
+    },
+    {
+      "lemma": "list",
+      "base": "list",
+      "s": "lists",
+      "past": "listed",
+      "ing": "listing",
+      "pp": "listed"
+    },
+    {
+      "lemma": "lock",
+      "base": "lock",
+      "s": "locks",
+      "past": "locked",
+      "ing": "locking",
+      "pp": "locked"
+    },
+    {
+      "lemma": "manage",
+      "base": "manage",
+      "s": "manages",
+      "past": "managed",
+      "ing": "managing",
+      "pp": "managed"
+    },
+    {
+      "lemma": "marry",
+      "base": "marry",
+      "s": "marries",
+      "past": "married",
+      "ing": "marrying",
+      "pp": "married"
+    },
+    {
+      "lemma": "match",
+      "base": "match",
+      "s": "matches",
+      "past": "matched",
+      "ing": "matching",
+      "pp": "matched"
+    },
+    {
+      "lemma": "matter",
+      "base": "matter",
+      "s": "matters",
+      "past": "mattered",
+      "ing": "mattering",
+      "pp": "mattered"
+    },
+    {
+      "lemma": "measure",
+      "base": "measure",
+      "s": "measures",
+      "past": "measured",
+      "ing": "measuring",
+      "pp": "measured"
+    },
+    {
+      "lemma": "mention",
+      "base": "mention",
+      "s": "mentions",
+      "past": "mentioned",
+      "ing": "mentioning",
+      "pp": "mentioned"
+    },
+    {
+      "lemma": "mind",
+      "base": "mind",
+      "s": "minds",
+      "past": "minded",
+      "ing": "minding",
+      "pp": "minded"
+    },
+    {
+      "lemma": "mix",
+      "base": "mix",
+      "s": "mixes",
+      "past": "mixed",
+      "ing": "mixing",
+      "pp": "mixed"
+    },
+    {
+      "lemma": "notice",
+      "base": "notice",
+      "s": "notices",
+      "past": "noticed",
+      "ing": "noticing",
+      "pp": "noticed"
+    },
+    {
+      "lemma": "offer",
+      "base": "offer",
+      "s": "offers",
+      "past": "offered",
+      "ing": "offering",
+      "pp": "offered"
+    },
+    {
+      "lemma": "order",
+      "base": "order",
+      "s": "orders",
+      "past": "ordered",
+      "ing": "ordering",
+      "pp": "ordered"
+    },
+    {
+      "lemma": "own",
+      "base": "own",
+      "s": "owns",
+      "past": "owned",
+      "ing": "owning",
+      "pp": "owned"
+    },
+    {
+      "lemma": "pack",
+      "base": "pack",
+      "s": "packs",
+      "past": "packed",
+      "ing": "packing",
+      "pp": "packed"
+    },
+    {
+      "lemma": "paint",
+      "base": "paint",
+      "s": "paints",
+      "past": "painted",
+      "ing": "painting",
+      "pp": "painted"
+    },
+    {
+      "lemma": "pass",
+      "base": "pass",
+      "s": "passes",
+      "past": "passed",
+      "ing": "passing",
+      "pp": "passed"
+    },
+    {
+      "lemma": "pick",
+      "base": "pick",
+      "s": "picks",
+      "past": "picked",
+      "ing": "picking",
+      "pp": "picked"
+    },
+    {
+      "lemma": "plant",
+      "base": "plant",
+      "s": "plants",
+      "past": "planted",
+      "ing": "planting",
+      "pp": "planted"
+    },
+    {
+      "lemma": "please",
+      "base": "please",
+      "s": "pleases",
+      "past": "pleased",
+      "ing": "pleasing",
+      "pp": "pleased"
+    },
+    {
+      "lemma": "point",
+      "base": "point",
+      "s": "points",
+      "past": "pointed",
+      "ing": "pointing",
+      "pp": "pointed"
+    },
+    {
+      "lemma": "pour",
+      "base": "pour",
+      "s": "pours",
+      "past": "poured",
+      "ing": "pouring",
+      "pp": "poured"
+    },
+    {
+      "lemma": "prepare",
+      "base": "prepare",
+      "s": "prepares",
+      "past": "prepared",
+      "ing": "preparing",
+      "pp": "prepared"
+    },
+    {
+      "lemma": "press",
+      "base": "press",
+      "s": "presses",
+      "past": "pressed",
+      "ing": "pressing",
+      "pp": "pressed"
+    },
+    {
+      "lemma": "produce",
+      "base": "produce",
+      "s": "produces",
+      "past": "produced",
+      "ing": "producing",
+      "pp": "produced"
+    },
+    {
+      "lemma": "promise",
+      "base": "promise",
+      "s": "promises",
+      "past": "promised",
+      "ing": "promising",
+      "pp": "promised"
+    },
+    {
+      "lemma": "protect",
+      "base": "protect",
+      "s": "protects",
+      "past": "protected",
+      "ing": "protecting",
+      "pp": "protected"
+    },
+    {
+      "lemma": "provide",
+      "base": "provide",
+      "s": "provides",
+      "past": "provided",
+      "ing": "providing",
+      "pp": "provided"
+    },
+    {
+      "lemma": "pull",
+      "base": "pull",
+      "s": "pulls",
+      "past": "pulled",
+      "ing": "pulling",
+      "pp": "pulled"
+    },
+    {
+      "lemma": "push",
+      "base": "push",
+      "s": "pushes",
+      "past": "pushed",
+      "ing": "pushing",
+      "pp": "pushed"
+    },
+    {
+      "lemma": "rain",
+      "base": "rain",
+      "s": "rains",
+      "past": "rained",
+      "ing": "raining",
+      "pp": "rained"
+    },
+    {
+      "lemma": "raise",
+      "base": "raise",
+      "s": "raises",
+      "past": "raised",
+      "ing": "raising",
+      "pp": "raised"
+    },
+    {
+      "lemma": "reach",
+      "base": "reach",
+      "s": "reaches",
+      "past": "reached",
+      "ing": "reaching",
+      "pp": "reached"
+    },
+    {
+      "lemma": "realize",
+      "base": "realize",
+      "s": "realizes",
+      "past": "realized",
+      "ing": "realizing",
+      "pp": "realized"
+    },
+    {
+      "lemma": "receive",
+      "base": "receive",
+      "s": "receives",
+      "past": "received",
+      "ing": "receiving",
+      "pp": "received"
+    },
+    {
+      "lemma": "recognize",
+      "base": "recognize",
+      "s": "recognizes",
+      "past": "recognized",
+      "ing": "recognizing",
+      "pp": "recognized"
+    },
+    {
+      "lemma": "record",
+      "base": "record",
+      "s": "records",
+      "past": "recorded",
+      "ing": "recording",
+      "pp": "recorded"
+    },
+    {
+      "lemma": "reduce",
+      "base": "reduce",
+      "s": "reduces",
+      "past": "reduced",
+      "ing": "reducing",
+      "pp": "reduced"
+    },
+    {
+      "lemma": "refuse",
+      "base": "refuse",
+      "s": "refuses",
+      "past": "refused",
+      "ing": "refusing",
+      "pp": "refused"
+    },
+    {
+      "lemma": "relax",
+      "base": "relax",
+      "s": "relaxes",
+      "past": "relaxed",
+      "ing": "relaxing",
+      "pp": "relaxed"
+    },
+    {
+      "lemma": "remain",
+      "base": "remain",
+      "s": "remains",
+      "past": "remained",
+      "ing": "remaining",
+      "pp": "remained"
+    },
+    {
+      "lemma": "remove",
+      "base": "remove",
+      "s": "removes",
+      "past": "removed",
+      "ing": "removing",
+      "pp": "removed"
+    },
+    {
+      "lemma": "repair",
+      "base": "repair",
+      "s": "repairs",
+      "past": "repaired",
+      "ing": "repairing",
+      "pp": "repaired"
+    },
+    {
+      "lemma": "repeat",
+      "base": "repeat",
+      "s": "repeats",
+      "past": "repeated",
+      "ing": "repeating",
+      "pp": "repeated"
+    },
+    {
+      "lemma": "reply",
+      "base": "reply",
+      "s": "replies",
+      "past": "replied",
+      "ing": "replying",
+      "pp": "replied"
+    },
+    {
+      "lemma": "report",
+      "base": "report",
+      "s": "reports",
+      "past": "reported",
+      "ing": "reporting",
+      "pp": "reported"
+    },
+    {
+      "lemma": "rest",
+      "base": "rest",
+      "s": "rests",
+      "past": "rested",
+      "ing": "resting",
+      "pp": "rested"
+    },
+    {
+      "lemma": "return",
+      "base": "return",
+      "s": "returns",
+      "past": "returned",
+      "ing": "returning",
+      "pp": "returned"
+    },
+    {
+      "lemma": "save",
+      "base": "save",
+      "s": "saves",
+      "past": "saved",
+      "ing": "saving",
+      "pp": "saved"
+    },
+    {
+      "lemma": "search",
+      "base": "search",
+      "s": "searches",
+      "past": "searched",
+      "ing": "searching",
+      "pp": "searched"
+    },
+    {
+      "lemma": "seem",
+      "base": "seem",
+      "s": "seems",
+      "past": "seemed",
+      "ing": "seeming",
+      "pp": "seemed"
+    },
+    {
+      "lemma": "serve",
+      "base": "serve",
+      "s": "serves",
+      "past": "served",
+      "ing": "serving",
+      "pp": "served"
+    },
+    {
+      "lemma": "share",
+      "base": "share",
+      "s": "shares",
+      "past": "shared",
+      "ing": "sharing",
+      "pp": "shared"
+    },
+    {
+      "lemma": "shout",
+      "base": "shout",
+      "s": "shouts",
+      "past": "shouted",
+      "ing": "shouting",
+      "pp": "shouted"
+    },
+    {
+      "lemma": "sign",
+      "base": "sign",
+      "s": "signs",
+      "past": "signed",
+      "ing": "signing",
+      "pp": "signed"
+    },
+    {
+      "lemma": "ski",
+      "base": "ski",
+      "s": "skis",
+      "past": "skied",
+      "ing": "skiing",
+      "pp": "skied"
+    },
+    {
+      "lemma": "smoke",
+      "base": "smoke",
+      "s": "smokes",
+      "past": "smoked",
+      "ing": "smoking",
+      "pp": "smoked"
+    },
+    {
+      "lemma": "snow",
+      "base": "snow",
+      "s": "snows",
+      "past": "snowed",
+      "ing": "snowing",
+      "pp": "snowed"
+    },
+    {
+      "lemma": "sound",
+      "base": "sound",
+      "s": "sounds",
+      "past": "sounded",
+      "ing": "sounding",
+      "pp": "sounded"
+    },
+    {
+      "lemma": "spell",
+      "base": "spell",
+      "s": "spells",
+      "past": "spelled",
+      "ing": "spelling",
+      "pp": "spelled"
+    },
+    {
+      "lemma": "store",
+      "base": "store",
+      "s": "stores",
+      "past": "stored",
+      "ing": "storing",
+      "pp": "stored"
+    },
+    {
+      "lemma": "stretch",
+      "base": "stretch",
+      "s": "stretches",
+      "past": "stretched",
+      "ing": "stretching",
+      "pp": "stretched"
+    },
+    {
+      "lemma": "succeed",
+      "base": "succeed",
+      "s": "succeeds",
+      "past": "succeeded",
+      "ing": "succeeding",
+      "pp": "succeeded"
+    },
+    {
+      "lemma": "suffer",
+      "base": "suffer",
+      "s": "suffers",
+      "past": "suffered",
+      "ing": "suffering",
+      "pp": "suffered"
+    },
+    {
+      "lemma": "suggest",
+      "base": "suggest",
+      "s": "suggests",
+      "past": "suggested",
+      "ing": "suggesting",
+      "pp": "suggested"
+    },
+    {
+      "lemma": "supply",
+      "base": "supply",
+      "s": "supplies",
+      "past": "supplied",
+      "ing": "supplying",
+      "pp": "supplied"
+    },
+    {
+      "lemma": "support",
+      "base": "support",
+      "s": "supports",
+      "past": "supported",
+      "ing": "supporting",
+      "pp": "supported"
+    },
+    {
+      "lemma": "suppose",
+      "base": "suppose",
+      "s": "supposes",
+      "past": "supposed",
+      "ing": "supposing",
+      "pp": "supposed"
+    },
+    {
+      "lemma": "surprise",
+      "base": "surprise",
+      "s": "surprises",
+      "past": "surprised",
+      "ing": "surprising",
+      "pp": "surprised"
+    },
+    {
+      "lemma": "taste",
+      "base": "taste",
+      "s": "tastes",
+      "past": "tasted",
+      "ing": "tasting",
+      "pp": "tasted"
+    },
+    {
+      "lemma": "thank",
+      "base": "thank",
+      "s": "thanks",
+      "past": "thanked",
+      "ing": "thanking",
+      "pp": "thanked"
+    },
+    {
+      "lemma": "touch",
+      "base": "touch",
+      "s": "touches",
+      "past": "touched",
+      "ing": "touching",
+      "pp": "touched"
+    },
+    {
+      "lemma": "train",
+      "base": "train",
+      "s": "trains",
+      "past": "trained",
+      "ing": "training",
+      "pp": "trained"
+    },
+    {
+      "lemma": "translate",
+      "base": "translate",
+      "s": "translates",
+      "past": "translated",
+      "ing": "translating",
+      "pp": "translated"
+    },
+    {
+      "lemma": "treat",
+      "base": "treat",
+      "s": "treats",
+      "past": "treated",
+      "ing": "treating",
+      "pp": "treated"
+    },
+    {
+      "lemma": "trust",
+      "base": "trust",
+      "s": "trusts",
+      "past": "trusted",
+      "ing": "trusting",
+      "pp": "trusted"
+    },
+    {
+      "lemma": "type",
+      "base": "type",
+      "s": "types",
+      "past": "typed",
+      "ing": "typing",
+      "pp": "typed"
+    },
+    {
+      "lemma": "vote",
+      "base": "vote",
+      "s": "votes",
+      "past": "voted",
+      "ing": "voting",
+      "pp": "voted"
+    },
+    {
+      "lemma": "warn",
+      "base": "warn",
+      "s": "warns",
+      "past": "warned",
+      "ing": "warning",
+      "pp": "warned"
+    },
+    {
+      "lemma": "waste",
+      "base": "waste",
+      "s": "wastes",
+      "past": "wasted",
+      "ing": "wasting",
+      "pp": "wasted"
+    },
+    {
+      "lemma": "wave",
+      "base": "wave",
+      "s": "waves",
+      "past": "waved",
+      "ing": "waving",
+      "pp": "waved"
+    },
+    {
+      "lemma": "welcome",
+      "base": "welcome",
+      "s": "welcomes",
+      "past": "welcomed",
+      "ing": "welcoming",
+      "pp": "welcomed"
+    },
+    {
+      "lemma": "wonder",
+      "base": "wonder",
+      "s": "wonders",
+      "past": "wondered",
+      "ing": "wondering",
+      "pp": "wondered"
+    },
+    {
+      "lemma": "worry",
+      "base": "worry",
+      "s": "worries",
+      "past": "worried",
+      "ing": "worrying",
+      "pp": "worried"
+    },
+    {
+      "lemma": "yawn",
+      "base": "yawn",
+      "s": "yawns",
+      "past": "yawned",
+      "ing": "yawning",
+      "pp": "yawned"
+    },
+    {
+      "lemma": "admire",
+      "base": "admire",
+      "s": "admires",
+      "past": "admired",
+      "ing": "admiring",
+      "pp": "admired"
+    },
+    {
+      "lemma": "announce",
+      "base": "announce",
+      "s": "announces",
+      "past": "announced",
+      "ing": "announcing",
+      "pp": "announced"
+    },
+    {
+      "lemma": "apologize",
+      "base": "apologize",
+      "s": "apologizes",
+      "past": "apologized",
+      "ing": "apologizing",
+      "pp": "apologized"
+    },
+    {
+      "lemma": "approve",
+      "base": "approve",
+      "s": "approves",
+      "past": "approved",
+      "ing": "approving",
+      "pp": "approved"
+    },
+    {
+      "lemma": "assist",
+      "base": "assist",
+      "s": "assists",
+      "past": "assisted",
+      "ing": "assisting",
+      "pp": "assisted"
+    },
+    {
+      "lemma": "attract",
+      "base": "attract",
+      "s": "attracts",
+      "past": "attracted",
+      "ing": "attracting",
+      "pp": "attracted"
+    },
+    {
+      "lemma": "behave",
+      "base": "behave",
+      "s": "behaves",
+      "past": "behaved",
+      "ing": "behaving",
+      "pp": "behaved"
+    },
+    {
+      "lemma": "boil",
+      "base": "boil",
+      "s": "boils",
+      "past": "boiled",
+      "ing": "boiling",
+      "pp": "boiled"
+    },
+    {
+      "lemma": "bother",
+      "base": "bother",
+      "s": "bothers",
+      "past": "bothered",
+      "ing": "bothering",
+      "pp": "bothered"
+    },
+    {
+      "lemma": "breathe",
+      "base": "breathe",
+      "s": "breathes",
+      "past": "breathed",
+      "ing": "breathing",
+      "pp": "breathed"
+    },
+    {
+      "lemma": "calculate",
+      "base": "calculate",
+      "s": "calculates",
+      "past": "calculated",
+      "ing": "calculating",
+      "pp": "calculated"
+    }
+  ]
+}

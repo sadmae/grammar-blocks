@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#faf8ef">
+    <meta name="description" content="Grammar Blocks — собирайте английские предложения на поле 5×5.">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Grammar Blocks">
+    <title>Grammar Blocks</title>
+    <link rel="icon" href="icon-192.png">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div class="title-block">
+          <h1>Grammar Blocks</h1>
+          <p class="tagline">Собирайте английские предложения на поле.</p>
+        </div>
+        <div class="scores">
+          <div class="score"><span>Очки</span><strong id="score">0</strong></div>
+          <div class="score record"><span>Рекорд</span><strong id="record">0</strong></div>
+          <div class="score"><span>Собрано</span><strong id="collected">0</strong></div>
+        </div>
+      </header>
+
+      <div class="modes" id="tense-modes"></div>
+      <div class="modes modes-four" id="play-modes"></div>
+      <p class="banner" id="record-banner" hidden></p>
+      <p class="status" id="status"></p>
+      <p class="banner" id="notice" hidden></p>
+      <p class="banner hint" id="hint" hidden></p>
+      <div class="board" id="board" role="grid" aria-label="Игровое поле"></div>
+      <div class="legend" id="legend"></div>
+      <p class="swipe-hint">Смахивайте по полю, чтобы сдвинуть плитки.</p>
+
+      <div class="actions">
+        <button type="button" id="shuffle">Перемешать · 3</button>
+        <button type="button" id="restart">Новая партия</button>
+      </div>
+
+      <div class="install phone-only" id="install-box">
+        <p>На iPhone откройте игру в Safari и добавьте её на экран «Домой».</p>
+        <button type="button" id="install" hidden>Установить</button>
+        <p id="install-fallback">Кнопка «Поделиться» → «На экран Домой».</p>
+      </div>
+
+      <details class="handbook" id="handbook">
+        <summary>Справочник</summary>
+        <div id="handbook-body"></div>
+      </details>
+    </main>
+    <script type="module" src="js/ui.mjs"></script>
+  </body>
+</html>
