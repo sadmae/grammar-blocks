@@ -15,4 +15,10 @@ jobs:
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        run: npx --yes netlify deploy --prod --dir . --site "$NETLIFY_SITE_ID"
+        run: |
+          echo "token_len=${#NETLIFY_AUTH_TOKEN}"
+          echo "site_len=${#NETLIFY_SITE_ID}"
+          code=$(curl -sS -o /tmp/site.json -w "%{http_code}" -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID")
+          echo "site_status=$code"
+          python3 -c "import json; data=json.load(open('/tmp/site.json')); print('site', data.get('name') or data.get('message') or data.get('error'))"
+          npx --yes netlify deploy --prod --dir . --site "$NETLIFY_SITE_ID"
