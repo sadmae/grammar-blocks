@@ -2,3 +2,8 @@ __pycache__/
 .pytest_cache/
 .netlify/
 data/stats.json
+node_modules/
+ios/App/Pods/
+ios/App/App/public/
+ios/DerivedData/
+*.xcuserstate

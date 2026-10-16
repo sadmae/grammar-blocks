@@ -572,8 +572,12 @@ function bind() {
     start = null;
   });
 
+  const nativePlatform = window.Capacitor?.getPlatform?.();
   const standalone =
-    window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+    nativePlatform === "ios" ||
+    nativePlatform === "android" ||
+    window.matchMedia("(display-mode: standalone)").matches ||
+    window.navigator.standalone === true;
   if (standalone) document.querySelector("#install-box").hidden = true;
   document.querySelector("#install").addEventListener("click", async () => {
     if (!installPrompt) return;

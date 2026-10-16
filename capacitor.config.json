@@ -1,0 +1,9 @@
+{
+  "appId": "com.sadmae.grammarblocks",
+  "appName": "Grammar Blocks",
+  "webDir": "web",
+  "ios": {
+    "backgroundColor": "#faf8ef",
+    "contentInset": "automatic"
+  }
+}
